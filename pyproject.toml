@@ -6,7 +6,7 @@ readme = "README.md"
 requires-python = "==3.13.*"
 dependencies = [
     # AI dependencies
-    "openai==1.70.0",
+    "openai==1.75.0",
     "litellm==1.63.14",
     "ollama==0.4.7",
     "ragas==0.2.14",
