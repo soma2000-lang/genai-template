@@ -50,7 +50,7 @@ requires-dist = [
     { name = "azure-storage-blob", specifier = "==12.25.0" },
     { name = "fastapi", extras = ["standard"], specifier = "==0.115.5" },
     { name = "instructor", specifier = "==1.7.7" },
-    { name = "langfuse", specifier = "==2.60.1" },
+    { name = "langfuse", specifier = "==2.60.7" },
     { name = "litellm", specifier = "==1.63.14" },
     { name = "loguru", specifier = "==0.7.3" },
     { name = "ollama", specifier = "==0.4.7" },
@@ -1447,7 +1447,7 @@ wheels = [
 
 [[package]]
 name = "langfuse"
-version = "2.60.1"
+version = "2.60.7"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "anyio" },
@@ -1459,9 +1459,9 @@ dependencies = [
     { name = "requests" },
     { name = "wrapt" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ee/03/0eb9cb8abe4ea7f77636e6fe06361c8bbc43b2e4eed51750d4bc792dff0b/langfuse-2.60.1.tar.gz", hash = "sha256:9801337b35d992630b4a15be20b7926d5abc114023260f1fb7151715f524fb91", size = 148519, upload-time = "2025-03-21T16:51:34.801Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/e4/f6/536ac1159e90d6ed16da10fd27225d523c01727e55e557c07b7c5ec5b201/langfuse-2.60.7.tar.gz", hash = "sha256:440783af444cc74efabfcd5c018d3da6080deaea2c9fb3ed3e40c47454250ede", size = 152436, upload-time = "2025-05-27T11:04:59.577Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/41/d1/8b61f332f37b89770ef93ebbf8649ce2ae1c07d5f2acba5c15ea1a7dcf6c/langfuse-2.60.1-py3-none-any.whl", hash = "sha256:0147c0b74a88c57fb73f486cc9ab0c30aacd30963fefa23723611274c3fda900", size = 264275, upload-time = "2025-03-21T16:51:32.487Z" },
+    { url = "https://files.pythonhosted.org/packages/57/e6/62091c18531bd2024d28851ca6eb79668f1835c5376769ce4b0b285d6838/langfuse-2.60.7-py3-none-any.whl", hash = "sha256:9434cd2a8858b6a656ea0de9ad0b469dc5211d6e32a0d5e27aff56034f8d0e41", size = 275447, upload-time = "2025-05-27T11:04:57.394Z" },
 ]
 
 [[package]]
