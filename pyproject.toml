@@ -9,7 +9,7 @@ dependencies = [
     "openai==1.82.0",
     "litellm==1.72.2",
     "ollama==0.4.7",
-    "ragas==0.2.14",
+    "ragas==0.2.15",
     "instructor==1.7.7",
     "azure-search-documents==11.5.2",
     "azure-storage-blob==12.25.0",
