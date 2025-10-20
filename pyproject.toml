@@ -17,7 +17,7 @@ dependencies = [
     "langfuse==3.0.2",
     # backend & frontend
     "python-multipart==0.0.20",
-    "fastapi[standard]==0.115.5",
+    "fastapi[standard]==0.119.1",
     "streamlit==1.46.0",
     "uvicorn==0.34.3",
     # Engineering
